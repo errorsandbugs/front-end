@@ -5,7 +5,7 @@
     left: 50%;
     transform: translate(-50%,-50% );
     width: 390px;
-    background: yellowgreen;
+    background: rgb(252, 249, 249);
     border-radius: 15px;
 }
 .main h1{
@@ -22,14 +22,14 @@ form{
 
 .txt{
     position: relative;
-    border-bottom : 1px solid lightgray ;
+    border-bottom : 1px solid rgb(231, 228, 228) ;
     margin: 30px 0;
 }
 body{
     padding: 0;
     height: 100hv;
     overflow: hidden;
-    background:linear-gradient(120deg,rgb(244, 247, 121),yellow)
+    background:linear-gradient(120deg,red,blue)
 }
 .txt input{
 width: 100%;
